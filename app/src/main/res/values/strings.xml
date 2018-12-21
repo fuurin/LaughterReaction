@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">(笑)</string>
+    <string name="button1">大勢</string>
+    <string name="button2">大勢\n(女性多め)</string>
+    <string name="button3">大勢\n(拍手)</string>
+    <string name="button4">女の子(短)</string>
+    <string name="button5">女の子(長)</string>
+    <string name="button6">女の子(驚)</string>
+    <string name="button7">うおー</string>
+    <string name="button8">きゃー</string>
+    <string name="button9">へー</string>
+</resources>
